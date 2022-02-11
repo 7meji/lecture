@@ -27,14 +27,14 @@ body
     border-radius: 20px;
     position: relative;
 }
-.seach
+.search
 {
   top: 24px;
   right: 20px;
   position: absolute;
 
 }
-.seach input 
+.search input 
 {
   font-size: 25px;
  border: 1px solid #800;
